@@ -1,0 +1,65 @@
+4
+HSR Bangers
+HOYO-MiX
+images/HSR_art.jpg
+3
+Space Walk
+songs/Space_Walk.mp3
+Interstellar Journey
+songs/Interstellar_journey.mp3
+Wildfire
+songs/Wildfire.mp3
+RAS - ERA
+RAISE A SUILEN
+images/RAS_ERA_art.jpg
+15
+Invincible Fighter
+songs/Invincible_Fighter.mp3
+A DECLARATION OF xxx
+songs/declaration_x.mp3
+SOUL SOLDIER
+songs/SOUL_SOLDIER.mp3
+UNSTOPPABLE
+songs/UNSTOPPABLE.mp3
+HELL! or HELL?
+songs/Hell.mp3
+Beautiful Birthday
+songs/Beautiful_Birthday.mp3
+Takin' my Heart
+songs/Takin_my_Heart.mp3
+DRIVE US CRAZY
+songs/DRIVE_US_CRAZY.mp3
+!NVADE SHOW!
+songs/Invade_show.mp3
+REIGNING
+songs/REIGNING.mp3
+EXPOSE 'Burn out!!!'
+songs/Expose.mp3
+R.I.O.T
+songs/RIOT.mp3
+OUTSIDER RODEO
+songs/OUTSIDER_RODEO.mp3
+Repaint
+songs/Repaint.mp3
+Blazing Bonfire!
+songs/Bonfire.mp3
+Wahl
+Roselia
+images/Wahl_art.jpg
+3
+R
+songs/R.mp3
+FIRE BIRD
+songs/FIRE_BIRD.mp3
+Song I am.
+songs/Song_I_am.mp3
+Project DIVA Songs
+Various Artists
+images/HMPD_art.jpg
+3
+Ghost Rule
+songs/Ghost_rule.mp3
+1000 Cherry Trees
+songs/senbonzakura.mp3
+Rolling Girl
+songs/Rolling_girl.mp3
